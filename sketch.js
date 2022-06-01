@@ -23,7 +23,7 @@ function draw() {
   if(score === 3) {
     clear()
     background(bg2)
-    fill("black")
+    fill("white")
     textSize(40);
     text("TREASURE UNLOCKED",250, 200);
   }
